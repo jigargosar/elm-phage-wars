@@ -1,0 +1,40 @@
+Whats the name of the game?
+On ArmourGames or Kongregate.
+Colonize space wars.
+
+Research:
+* find link to the game.
+
+mvp
+handful of planets
+player vs ai
+2 home planets
+rest neutral planets
+click owned planet then any other
+send half population
+every non-neutral planet will grow its pop by 1 per second upto 100 pop.
+resolve battles by simple arithmatic
+
+ai will make random moves. every 10 seconds.
+
+Implementation Path
+view planets with pop, gray blue red.
+2 home planets with 100 pop.
+manual planet placement.
+update population on tick.
+
+player input as two clicks
+showing pop movement
+spawn particles, pick random points away from center.
+upon intersection, resolve battle.
+
+come back and think about next steps.
+
+https://www.silvergames.com/en/phage-wars
+
+phage wars (2/3...)
+choose your parasite :)
+speed/strength/agility
+joebetz
+
+
